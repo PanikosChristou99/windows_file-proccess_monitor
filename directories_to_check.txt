@@ -1,0 +1,3 @@
+.\temporary_directory\
+D:\Github Repos\windows_file-proccess_monitor\temporary_directory\test1_lvl1_dir\test1_lvl2_dir
+.\temporary_directory_2
